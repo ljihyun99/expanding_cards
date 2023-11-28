@@ -4,13 +4,13 @@
 }
 .container, .container2{
     display:flex;
-    width:50vw;
+    width:70vw;
 }
 .panel,.panel2{
     background-size:cover;
     background-position:center;
     background-repeat: no-repeat;
-    height:30vh;
+    height:40vh;
     border-radius:50px;;
     color:white;
     cursor:pointer;
